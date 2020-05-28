@@ -1,0 +1,33 @@
+.botton{
+    height: 18px;
+       border-radius: 5px;
+       background-color: #ED7019;
+        text-align: center;
+      }
+
+ input{
+      height: 30px;
+       border-radius: 7px;
+        background-color: #def;
+        text-align: center;
+        box-shadow: 10px 6px 7px #77876B ;
+    }
+    input[type=submit ],  input[type=button ]{
+    	background-color: #BEFE45;
+    }
+
+button{
+      height: 30px;
+       border-radius: 7px;
+       background-color: #F1DA79;
+        text-align: center;
+        box-shadow: 10px 6px 7px #77876B ;
+        white-space:nowrap;
+    }
+    th{
+      color: white;
+      background-color: #30786F;
+      border: none;
+    }
+
+  
